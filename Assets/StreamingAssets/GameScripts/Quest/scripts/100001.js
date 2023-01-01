@@ -1,4 +1,16 @@
+function questInit(setting){ 
+  setting.setQuestType('collect');
+  setting.setRequirement([
+    {
+      type : 'item',
+      id : 1001,
+      count : 4,
+    }
+  ]);
+}
+
 function enter(q) {
+  q.cameraFocus();
   q.pushNext({
     type: "talk",
     teller: "player",
