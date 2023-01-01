@@ -1,12 +1,17 @@
 ﻿
 using Jint;
+using System.Collections.Generic;
 
 public class CustomConsole
 {
     public void log(object o) => UnityEngine.Debug.Log(o);
 }
+
 public class PlayEngineWrapper
 {
+    public static readonly Dictionary<string, object> GlobalObject = new Dictionary<string, object>() {
+        {  "log", new System.Action<object>((o)=>UnityEngine.Debug.Log(o))}
+    };
     public Engine engine;
     public PlayEngineWrapper()
     { 

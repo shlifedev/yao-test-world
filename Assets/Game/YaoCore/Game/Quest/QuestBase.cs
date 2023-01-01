@@ -12,8 +12,7 @@ public class QuestBase : MonoBehaviour
         Collect,
         Kill,
         Delive,
-        DeliveSeveral,
-
+        DeliveSeveral, 
     }
     public int questGiverId; 
 

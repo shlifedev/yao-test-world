@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assets.Game.YaoCore.Game.Harvest
 {
-    class LiveStock
+    class LiveStock 
     {
     }
 }
