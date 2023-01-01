@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: f9859e4d29d44494d86c0704db250ab6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.002
+    100006: Cube.003
+    100008: Cube.004
+    100010: Cube.005
+    100012: Cube.006
+    100014: Cube.007
+    100016: Cube.008
+    100018: Cube.009
+    100020: Cube.010
+    100022: Cube.011
+    100024: Cube.012
+    100026: Cube.013
+    100028: Cube.014
+    100030: //RootNode
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.002
+    400006: Cube.003
+    400008: Cube.004
+    400010: Cube.005
+    400012: Cube.006
+    400014: Cube.007
+    400016: Cube.008
+    400018: Cube.009
+    400020: Cube.010
+    400022: Cube.011
+    400024: Cube.012
+    400026: Cube.013
+    400028: Cube.014
+    400030: //RootNode
+    2100000: No Name
+    2100002: plastic glossy black
+    2100004: concrete painted cracks
+    2100006: concrete stone
+    2100008: concrete stone.010
+    2100010: concrete stone.003
+    2100012: concrete stone.002
+    2100014: concrete stone.005
+    2100016: concrete stone.004
+    2100018: concrete stone.006
+    2100020: concrete stone.008
+    2100022: concrete stone.009
+    2100024: concrete stone.007
+    2100026: concrete stone.001
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cube.004
+    2300010: Cube.005
+    2300012: Cube.006
+    2300014: Cube.007
+    2300016: Cube.008
+    2300018: Cube.009
+    2300020: Cube.010
+    2300022: Cube.011
+    2300024: Cube.012
+    2300026: Cube.013
+    2300028: Cube.014
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cube.004
+    3300010: Cube.005
+    3300012: Cube.006
+    3300014: Cube.007
+    3300016: Cube.008
+    3300018: Cube.009
+    3300020: Cube.010
+    3300022: Cube.011
+    3300024: Cube.012
+    3300026: Cube.013
+    3300028: Cube.014
+    4300000: Cube.014
+    4300002: Cube.013
+    4300004: Cube.011
+    4300006: Cube.012
+    4300008: Cube.009
+    4300010: Cube.010
+    4300012: Cube.005
+    4300014: Cube.008
+    4300016: Cube.007
+    4300018: Cube.006
+    4300020: Cube.004
+    4300022: Cube.003
+    4300024: Cube.002
+    4300026: Cube.001
+    4300028: Cube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: ac5f2888393b9094d9d58aa8d4057c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete painted cracks
+    second: {fileID: 2100000, guid: 3a6946392ac78444e905676e02941690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete stone
+    second: {fileID: 2100000, guid: c62e1ffb04e3c23489d3c2038a99b64b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete stone.001
+    second: {fileID: 2100000, guid: fe24a0bc0ccd5e54f9b67389d681b9e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete stone.002
+    second: {fileID: 2100000, guid: 0202da1972c8bf04fa7b2867968536df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete stone.003
+    second: {fileID: 2100000, guid: fb18aab841c798740837b29904c6598c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete stone.004
+    second: {fileID: 2100000, guid: 46c8648942167524bba6a12cc6b11e09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete stone.005
+    second: {fileID: 2100000, guid: 819716f1aa5e7ed499c7f68206cd8b8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete stone.006
+    second: {fileID: 2100000, guid: bbff69fb2ef61b44684326ce97de4a99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete stone.007
+    second: {fileID: 2100000, guid: fad6c941be56c724e980a95e1317dab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete stone.008
+    second: {fileID: 2100000, guid: 299a4a77d3b5e3145a18e0eac835bf27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete stone.009
+    second: {fileID: 2100000, guid: 7dc22efd69a20644ba08cabd23931073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete stone.010
+    second: {fileID: 2100000, guid: f56d351eaa8c1be4a9b42e2fad8c30f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic glossy black
+    second: {fileID: 2100000, guid: 974239c22f1d9ae418c8b7343bb5ad8e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
