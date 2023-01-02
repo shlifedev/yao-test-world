@@ -1,4 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.PI = void 0;
-exports.PI = 3.14;
+var index_1 = require("../../index");
+var pi = index_1.PI;
+log("" + pi);
