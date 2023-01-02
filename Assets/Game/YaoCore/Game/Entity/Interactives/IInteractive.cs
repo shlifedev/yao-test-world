@@ -4,10 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Yao.Core.Interactive
+public interface IInteractiveObject
 {
-    interface IInteractive
-    {
-        void Interactive();
-    }
+    void Interactive();
 }
