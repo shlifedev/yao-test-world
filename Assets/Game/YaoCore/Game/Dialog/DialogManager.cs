@@ -56,12 +56,13 @@ public class DialogManager : MonoBehaviour
     {
         string tempScript = @"
 function enter(){
-    log(push)
-    log(DialogScript) 
+    console.log(push)
+    console.log(DialogScript) 
 }
 ";
         SetCurrentContext(new DialogContext());
         _executor = new DIalogScriptExecutor(_context, this);
+        _executor.engine.Execute(tempScript);
         var invoker = _executor.engine.GetValue("enter");
         if(invoker != null)
         {
